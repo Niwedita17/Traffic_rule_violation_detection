@@ -55,7 +55,7 @@ NUM_CLASSES = 1
 
 
 api = openalpr_api.DefaultApi()
-secret_key = 'sk_e672004b56a0d02ce946a6bb'
+secret_key = 'sk_f24611bd699b35281adb6441'
 country = 'us'
 recognize_vehicle = 0
 state = ''
