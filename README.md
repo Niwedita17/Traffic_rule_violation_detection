@@ -47,11 +47,6 @@ run the project by the command ```python3 VehicleMoniter.py```
 
 ![alt text](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System/blob/master/Screenshot2.png)
 
-##### Note
-Do not run the file in the object detection folder cloned from tensorflow as I have made some changes to the files.
-
-### Issues
-If you find any problem you can contact me or raise an issue.
 
 ## Built With
 
