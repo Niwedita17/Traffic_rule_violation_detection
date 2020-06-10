@@ -8,7 +8,9 @@ We plan to build software that can detect a car whenever it crosses a Red Light 
 CCTV footage of the road in .avi format.
 
 ## Outputs:
-The output of the software will consist of-Vehicle speed detected license plate photo of the vehicle extracted license plate number  
+The output of the software will consist of-
+* Vehicle speed detected 
+* license plate photo of the vehicle extracted license plate number  
 
 ## Performance measurement criteria (Milestones and dates):
 High accuracy of detecting all the vehicles even in high traffic conditions, detecting the license plate and extracting the license plate number would be the primary concern of this project. 
@@ -55,7 +57,3 @@ If you find any problem you can contact me or raise an issue.
 
 * [Tensorflow](https://www.tensorflow.org/) - ML library
 * [OpenALPR](https://www.openalpr.com/) - For detecting license plate and extracting license plate number
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System/blob/master/LICENSE) file for details
